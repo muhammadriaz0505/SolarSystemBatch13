@@ -9,5 +9,10 @@ public class Main {
         inception.Planets = 2;
 
         System.out.println("the basic structure is ready ");
+
+        Planet2 superwomen=new Planet2();
+        superwomen.size="766585857km";
+        superwomen.name="pliea";
+        superwomen.color="green";
     }
 }
